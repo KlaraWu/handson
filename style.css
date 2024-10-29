@@ -1,0 +1,23 @@
+h1 {
+    color: blueviolet;
+    background-color:lavenderblush;
+    text-align: center;
+    border: 5px rgb(39, 163, 179) solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+
+}
+.title {
+    color: blueviolet;
+    background-color:lavenderblush;
+    text-align: center;
+    font-family: 'Bauhaus 93', sans-serif;
+    border: 5px rgb(39, 163, 179) solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+#important {
+    color: blue;
+}
